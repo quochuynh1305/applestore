@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="998ca209-3b1b-4b0b-abd2-9c319a4930c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AppleStore/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/java/com/example/AppleStore/AppleStoreApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/java/com/example/AppleStore/controller/MainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/css/cart.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/css/contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/css/details.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/css/nouislider.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/css/privacyPolicy.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/css/product.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/css/quickview.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/css/returnPolicy.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/css/shipping.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/css/slick-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/css/slick.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/css/slideShow.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/css/slider.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/fonts/slick.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/fonts/slick.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/fonts/slick.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/fonts/slick.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/10-huyen-thoai-viking-hay-nhat-moi-thoi-dai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/PrivacyPolicy/chinh-sach-bao-mat-tai-metech.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/PrivacyPolicy/dieu-khoan-su-dung.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/PrivacyPolicy/mua-si-sach-kien-truc-doc-store.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/PrivacyPolicy/sb_1600052162_894.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/cotichthanthoai/10-huyen-thoai-hy-lap-hay-nhat-moi-thoi-dai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/cotichthanthoai/10-huyen-thoai-viking-hay-nhat-moi-thoi-dai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/cotichthanthoai/100-mau-chuyen-co-dong-tay-nguyen-lan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/cotichthanthoai/108-truyen-ngu-ngon-hay-nhat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/cotichthanthoai/365-chuyen-ke-hang-dem-mua-thu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/cotichthanthoai/Truyen-co-Tay-Tang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/cotichthanthoai/buratino-va-chiec-chia-khoa-vang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/cotichthanthoai/hue-tim-va-nhung-chuyen-khac.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/cotichthanthoai/than-thoai-bac-au.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/cotichthanthoai/truyen-ke-tay-tang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/discount/72-thuat-tan-cong-tam-ly-trong-ban-le.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/discount/Chien-thang-con-quy-ben-trong-ban.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/discount/ban-hang-thong-minh-qua-dien-thoai-va-internet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/discount/bi-mat-hanh-trinh-tinh-yeu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/discount/bien-bat-ky-ai-thanh-khach-hang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/discount/dam-bi-ghet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/discount/danh-thuc-nang-luc-vo-han.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/discount/giaoducconcuanguoiMy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/discount/hai-sach-hay-ve-van-menh-cua-nen-kinh-te-the-gioi-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/discount/hoi-sinh-su-than-ky-nhat-ban.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/forgot/123977653_3437076873055407_5120972099842516974_n.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/forgot/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/giaoduc/dac-nhan-tam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/giaoduc/day-con-choi-ma-hoc-hoc-ma-choi-voi-game-giao-duc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/giaoduc/giao-duc-va-y-nghia-cuoc-song.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/giaoduc/giaoducconcuanguoiMy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/giaoduc/giaoducgioitinh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/giaoduc/mottraitimyeuthuong.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/giaoduc/phuongphapgiaoducMONTESSORI.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/giaoduc/tannhanvayeuthuong.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/giaoduc/thien-tai-va-su-giao-duc-tu-som.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/BanChay/3-Doi anh ve.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/BanChay/blackmoore.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/BanChay/dam-bi-ghet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/BanChay/mu-phu-thuy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/BanChay/pr-la-song.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/KinhTe/cuoccachmangchaybo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/KinhTe/moilanvapngalamotlantruongthanh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/KinhTe/nguoi-thap-sao-troi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/KinhTe/suc_manh_cua_tinh_tam_606-2_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/Moi/10-huyen-thoai-viking-hay-nhat-moi-thoi-dai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/Moi/100-mau-chuyen-co-dong-tay-nguyen-lan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/Moi/108-truyen-ngu-ngon-hay-nhat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/Moi/365-chuyen-ke-hang-dem-mua-thu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/Moi/buratino-va-chiec-chia-khoa-vang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/VanHoc/100cauchuyenchobetrai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/VanHoc/dieukydieu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/VanHoc/dunghenngaymai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/VanHoc/harrypotter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/VanHoc/neubiettramnamlahuuhan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/VanHoc/nhungtamlongcaoca.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/VanHoc/ongtramtuoitreoquacuasovabienmat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/VanHoc/tiemsachcu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/banner/bannerKid.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/banner/bannerKinhTe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/banner/bannerKyNang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/index/banner/bannerVanHoc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/kinhte/Chien-thang-con-quy-ben-trong-ban.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/kinhte/Mot-tu-duy-khac-ve-kinh-te-va-xa-hoi-Alan-Phan.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/kinhte/biquyetgaydunconghiepbacty.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/kinhte/bong-bong-kinh-te.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/kinhte/cac-khai-niem-co-ban-ve-kinh-te-song-ngu-anh-viet-nhieu-tac-gia.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/kinhte/hai-sach-hay-ve-van-menh-cua-nen-kinh-te-the-gioi-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/kinhte/hoi-sinh-su-than-ky-nhat-ban.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/kinhte/kinh-te-vi-mo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/kinhte/kinhtedoingoaivietnam.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/kinhte/kinhtehoc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/kinhte/lichsukinhte.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/kinhte/thegioiphang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/kinhte/tu-do-kinh-te-don-bay-phat-trien-viet-nam.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/kinhte/tuanlamviec4gio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/marketingbanhang/72-thuat-tan-cong-tam-ly-trong-ban-le.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/marketingbanhang/ban-hang-thong-minh-qua-dien-thoai-va-internet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/marketingbanhang/bien-bat-ky-ai-thanh-khach-hang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/marketingbanhang/cau-chuyen-cua-toi-trong-nganh-quang-cao-khoa-hoc-quang-cao.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/marketingbanhang/dung-hanh-xu-nhu-nguoi-ban-hay-suy-nghi-tua-nguoi-mua.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/marketingbanhang/nghe-thuat-lay-long-khach-hang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/marketingbanhang/nhung-chieu-tiep-thi-nguoc-doi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/marketingbanhang/pr-la-song.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/marketingbanhang/tang-toc-ban-hang-bang-spin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/marketingbanhang/xi-xam-vs-het-to-bi-kip-x-trong-quang-cao-pr.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/payment/buoc1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/payment/buoc10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/payment/buoc11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/payment/buoc12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/payment/buoc13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/payment/buoc14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/payment/buoc2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/payment/buoc3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/payment/buoc4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/payment/buoc5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/payment/buoc6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/payment/buoc7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/payment/buoc8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/payment/buoc9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/quickview/large1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/quickview/large2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/quickview/large3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/quickview/small1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/quickview/small2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/quickview/small3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sachhocngoaingu/bo-sach-tieng-anh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sachhocngoaingu/bo_sach_tu_hoc_tieng_trung_thanh_tai_bo_2_cuon_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sachhocngoaingu/cachhocngoaingunhanhvahieuua.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sachhocngoaingu/giaithichnguphaptienganh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sachhocngoaingu/hack-nao-1500-tu-tieng-anh.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sachhocngoaingu/hoctienganhbatnguontudau.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sachhocngoaingu/lennuihoctienganh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sachhocngoaingu/luyensieutrinhotuvungtienganh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sachhocngoaingu/tu-hoc-giao-tiep-tieng-anh-danh-cho-nguoi-di-lam-sach-tieng-anh-giao-tiep.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sachhocngoaingu/tu-hoc-tieng-anh-hieu-qua.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sachhocngoaingu/tuhocgiaotieptiengtrung.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sachhocngoaingu/vua-luoi-vua-ban-van-gioi-tieng-anh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sachthieunhi/behoctoan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sachthieunhi/betaptaohinh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sachthieunhi/caudohinh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sachthieunhi/caudosuyluan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sachthieunhi/comotconmotsach.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sachthieunhi/lophocgiadinh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sachthieunhi/phattrientuduychotre.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sachthieunhi/thamtuchu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sachthieunhi/thientainhi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sachthieunhi/trituevvui.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sachthieunhi/truyenngungonchobe.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sale/mgg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sale/mgg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sale/mgg2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sale/quangcao2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sale/slide1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sale/slide2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sale/slide3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/sale/slide4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/search/100-mau-chuyen-co-dong-tay-nguyen-lan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/search/108-truyen-ngu-ngon-hay-nhat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/search/365-chuyen-ke-hang-dem-mua-thu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/search/Truyen-co-Tay-Tang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/search/buratino-va-chiec-chia-khoa-vang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/search/c01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/search/c02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/search/than-thoai-bac-au.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/search/truyen-ke-tay-tang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/selling/100-mau-chuyen-co-dong-tay-nguyen-lan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/selling/Chien-thang-con-quy-ben-trong-ban.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/selling/bong-bong-kinh-te.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/selling/nghe-thuat-lay-long-khach-hang.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/selling/than-thoai-bac-au.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/selling/thien-tai-va-su-giao-duc-tu-som.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/selling/thien-than-barbara-taylor-bradford.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/selling/trituevvui.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/selling/tải xuống.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/slide5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/storeIntroduced.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tamlykynangsong/bi-mat-hanh-trinh-tinh-yeu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tamlykynangsong/dam-bi-ghet.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tamlykynangsong/danh-thuc-nang-luc-vo-han.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tamlykynangsong/de-co-tri-nho-tot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tamlykynangsong/khi-nguoi-ta-tu-duy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tamlykynangsong/lam-it-duoc-nhieu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tamlykynangsong/loi-song-toi-gian-cua-nguoi-nhat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tamlykynangsong/mac-ke-thien-ha-song-nhu-nguoi-nhat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tamlykynangsong/sinh-ra-de-chay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieusuhoiky/100khoanhkhacthientai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieusuhoiky/barackobama.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieusuhoiky/bengionglichsu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieusuhoiky/dungchetoarapxeut.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieusuhoiky/hoi-ky-tien-si-le-tham-duong.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieusuhoiky/hoikyTranHuyLieu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieusuhoiky/hoikydomau" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieusuhoiky/michelleobama.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieusuhoiky/motcongiobui.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieusuhoiky/ngonluaxanh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieusuhoiky/nhat-linh-cha-toi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieusuhoiky/stevejobs.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieusuhoiky/tieu-su-david-ben-gurion.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieusuhoiky/toidihoc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieusuhoiky/trumpdungbaogiobocuoc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieusuhoiky/typhubangiay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieuthuyet/bach-ma-hoang-tu-chang-o-dau.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieuthuyet/blackmoore.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieuthuyet/moi-tinh-dau-ivan-turgenev.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieuthuyet/nhat-ky-anne-frank.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieuthuyet/tang-dau-dia-nguc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieuthuyet/the-dark-duet-series.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieuthuyet/thien-than-barbara-taylor-bradford.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieuthuyet/thieu-nu-danh-co-vay.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieuthuyet/tinh-yeu-dinh-menh.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/tieuthuyet/to-am-noi-tan-cung-the-gioi.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/truyenmakinhdi/buom-bao-thu-diep-tu.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/truyenmakinhdi/chuyen-ma-quai-o-benh-vien-dong-hoa.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/truyenmakinhdi/chuyen-quai-di-o-truong-hoc.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/truyenmakinhdi/con-quy-truyen-kiep.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/truyenmakinhdi/da-thoai-u-minh-quai-dam.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/truyenmakinhdi/lieu-trai-chi-di-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/truyenmakinhdi/ma-cam-ma-khoc-duoi-ho-tien-don.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/truyenmakinhdi/mu-phu-thuy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/truyenmakinhdi/nhat-ky-phong-tro-ma.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/truyenmakinhdi/truyen-ma-12-cung-hoang-dao.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/vanhoc/2-Cham hon su dung lai.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/vanhoc/3-Doi anh ve.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/vanhoc/Hop tuyen van hoc Han Quóc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/vanhoc/canh chim trong gio.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/vanhoc/truyen kieu chua xong dieu nghi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/vanhoc/truyện ngắn đương đại Hàn Quốc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/vanhoc/tải xuống (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/vanhoc/tải xuống (2).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/img/vanhoc/tải xuống.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/js/jquery.zoom.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/js/nouislider.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/js/quickview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/js/slick.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/resources/static/js/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/EmailForm.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/account.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/blog.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/cart.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/changePass.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/checkMail.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/checkout.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/contact.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/discount.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/forgot.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/giaoKhoa.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/kinhte.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/literature.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/loi.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/new.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/parts/footer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/parts/header.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/payment.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/privacyPolicy.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/product.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/purchasePolicy.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/renewPass.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/returnPolicy.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/sachNgoaiNgu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/sachThieuNhi.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/search.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/selling.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/shipping.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/shopCenterSystem.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/shoppingHistories.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/storeIntroduced.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/tamly_kynangsong.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/termsOfUse.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/main/webapp/WEB-INF/jsp/tieuSu.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppleStore/src/test/java/com/example/AppleStore/AppleStoreApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2BLAGHdAF38ER8nU2fzHMOQVuVk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/STUDY/CD WEB/Project/FinalProject/applestore/AppleStore"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="AppleStoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="AppleStore" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.AppleStore.AppleStoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="998ca209-3b1b-4b0b-abd2-9c319a4930c7" name="Changes" comment="" />
+      <created>1656674894161</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1656674894161</updated>
+      <workItem from="1656674895599" duration="73000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
