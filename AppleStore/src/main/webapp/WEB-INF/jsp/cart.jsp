@@ -1,7 +1,4 @@
 <%@ page import="java.util.Collection" %>
-<%@ page import="nlu.edu.fit.bookstore.model.*" %>
-<%@ page import="nlu.edu.fit.bookstore.controller.AddCartItem" %>
-<%@ page import="nlu.edu.fit.bookstore.controller.RemoveCartItem" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE html>
 <html lang="en">
@@ -80,48 +77,48 @@
                   </tr> 
                  </thead> 
                  <tbody>
-                 <% Cart cart = Cart.getCart(session);
-                 Collection<nlu.edu.fit.bookstore.model.CartItem> data = cart.getData();
-                  %>
+<%--                 <% Cart cart = Cart.getCart(session);--%>
+<%--                 Collection<nlu.edu.fit.bookstore.model.CartItem> data = cart.getData();--%>
+<%--                  %>--%>
 
-                 <% for (CartItem item :data){%>
+<%--                 <% for (CartItem item :data){%>--%>
                  <tr> 
                   <td data-th="Product"> 
                    <div class="row"> 
-                    <div class="col-sm-2 hidden-xs"><img src="<%= item.getP().getUrl()%>" alt="Sản phẩm 1" class="img-responsive" width="100">
-                    </div> 
+<%--                    <div class="col-sm-2 hidden-xs"><img src="<%= item.getP().getUrl()%>" alt="Sản phẩm 1" class="img-responsive" width="100">--%>
+<%--                    </div> --%>
                     <div class="col-sm-10"> 
-                     <h4 class="nomargin"><%= item.getP().getName()%></h4>
+<%--                     <h4 class="nomargin"><%= item.getP().getName()%></h4>--%>
 <%--                     <p>10 huyền thoại Hy Lạp hay nhất mọi thời đại</p> --%>
                     </div> 
                    </div> 
                   </td> 
-                  <td data-th="Price"><%= item.getP().getPrice()%></td>
-                  <td data-th="Quantity"><input class="form-control text-center" value="<%= item.getQuantity()%>" type="number" min="1" >
-                  </td> 
-                  <td data-th="Subtotal" class="text-center"><%= item.price()%></td>
+<%--                  <td data-th="Price"><%= item.getP().getPrice()%></td>--%>
+<%--                  <td data-th="Quantity"><input class="form-control text-center" value="<%= item.getQuantity()%>" type="number" min="1" >--%>
+<%--                  </td> --%>
+<%--                  <td data-th="Subtotal" class="text-center"><%= item.price()%></td>--%>
                   <td class="actions" data-th="">
 <%--                   <button class="btn btn-info btn-sm"><i class="fa fa-edit"></i>--%>
 <%--                   </button> --%>
-                     <a href="<%=Utils.fullPath("remove")%>?id=<%=item.getP().getId()%>">
+<%--                     <a href="<%=Utils.fullPath("remove")%>?id=<%=item.getP().getId()%>">--%>
                    <button class="btn btn-danger btn-sm"><i class="fa fa-trash-o"></i>
                    </button>
     </a>
 
                   </td> 
                  </tr>
-                 <%}%>
+<%--                 <%}%>--%>
                  </tbody><tfoot> 
                   <!-- <tr class="visible-xs"> 
                    <td class="text-center"><strong>Tổng 320,000 đ</strong>
                    </td> 
                   </tr>  -->
                   <tr> 
-                   <td><a href="<%=Utils.fullPath("")%>>" class="btn btn-warning"><i class="fa fa-angle-left"></i> Tiếp tục mua hàng</a>
-                   </td> 
+<%--                   <td><a href="<%=Utils.fullPath("")%>>" class="btn btn-warning"><i class="fa fa-angle-left"></i> Tiếp tục mua hàng</a>--%>
+<%--                   </td> --%>
                    <td colspan="2" class="hidden-xs"> </td>
-                   <td class="hidden-xs text-center"><strong>Tổng tiền <%= cart.total()%></strong>
-                   </td> 
+<%--                   <td class="hidden-xs text-center"><strong>Tổng tiền <%= cart.total()%></strong>--%>
+<%--                   </td> --%>
                    <td><a href="checkout" class="btn btn-success btn-block">Thanh toán <i class="fa fa-angle-right"></i></a>
                    </td> 
                   </tr>

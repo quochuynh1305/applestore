@@ -158,14 +158,14 @@
 						</br>
 						<strong>
 							Ngân hàng BIDV - Chi nhánh thành phố Hồ Chí Minh</br>
-							Tên tài khoản: Công ty CP Phát Hành Sách TPHCM - JB BOOKSTORE</br>
+							Tên tài khoản: Công ty CP Phát Hành Thiết Bị Điện Tử TPHCM - APPLESTORE</br>
 							Số tài khoản: 31410002963568</br>
 							</br>
 							Chú ý:
 						</strong>
 						<p style="text-align: justify;">
 							- Khi chuyển tiền, vui lòng ghi rõ Mã số đơn hàng mà bạn thanh toán vào phần ghi chú của lệnh
-							chuyển khoản. Sau đó email cho chúng tôi theo địa chỉ accounting@JBbookstore.com để thông
+							chuyển khoản. Sau đó email cho chúng tôi theo địa chỉ accounting@applestore.com để thông
 							báo việc
 							chuyển tiền và số tài khoản của bạn để tiện trong việc kiểm tra đồng thời tiến hành giao
 							hàng

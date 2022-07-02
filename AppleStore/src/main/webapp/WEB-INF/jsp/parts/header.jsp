@@ -1,14 +1,8 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<%--<%@ page import="nlu.edu.fit.bookstore.utils.Utils" %>--%>
-<%--<%@ page import="nlu.edu.fit.bookstore.model.User" %>--%>
-<%--<%@ page import="nlu.edu.fit.bookstore.model.Cart" %>--%>
-<%--<%@ page import="nlu.edu.fit.bookstore.controller.AddCartItem" %>--%>
-<%--<%@ page import="nlu.edu.fit.bookstore.model.CartItem" %>--%>
 
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
 <title> JB Bookstore</title>
 
@@ -190,7 +184,7 @@
         <div class="container">
             <ul class="header-links pull-left">
                 <li><a href="#"><i class="fa fa-phone"></i> +963-49-46-74</a></li>
-                <li><a href="#"><i class="fa fa-envelope-o"></i> JB_bookstore@gmail.com</a></li>
+                <li><a href="#"><i class="fa fa-envelope-o"></i> applestore@gmail.com</a></li>
                 <li><a href="#"><i class="fa fa-map-marker"></i> Quận Thủ Đức, TPHCM</a></li>
             </ul>
             <ul id="topLinks" class="header-links pull-right">
@@ -290,13 +284,13 @@
                 <div id="responsive-nav">
                     <!-- NAV -->
                     <ul class="main-nav nav navbar-nav">
-                        <li><a href="">Trang chủ</a></li>
-                        <li><a href="../selling.jsp">Bán chạy</a></li>
-                        <li><a href="../discount.jsp">Khuyến mãi</a></li>
-                        <li><a href="../new.jsp">Mới</a></li>
-                        <li><a href="../storeIntroduced.jsp">Giới thiệu</a></li>
-                        <li><a href="../blog.jsp">Blog</a></li>
-                        <li><a href="../contact.jsp">Liên hệ</a></li>
+                        <li><a href="">Apple Store</a></li>
+                        <li><a href="">Iphone</a></li>
+                        <li><a href="">Mac</a></li>
+                        <li><a href="">Ipad</a></li>
+                        <li><a href="">Watch</a></li>
+                        <li><a href="">AirPod</a></li>
+                        <li><a href="">Liên hệ</a></li>
                     </ul>
                     <!-- /NAV -->
                 </div>

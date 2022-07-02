@@ -45,12 +45,12 @@
                 <div class="col-md-3 col-xs-6">
                     <div class="footer">
                         <h3 class="footer-title">Liên hệ</h3>
-                        <p>JB nhận đặt hàng trực tuyến và giao hàng tận nơi. KHÔNG hỗ trợ đặt mua và nhận hàng
-                            trực tiếp tại Hệ thống cửa hàng JB trên toàn quốc.</p>
+                        <p>Apple Store nhận đặt hàng trực tuyến và giao hàng tận nơi. KHÔNG hỗ trợ đặt mua và nhận hàng
+                            trực tiếp tại Hệ thống cửa hàng Apple Store trên toàn quốc.</p>
                         <ul class="footer-links">
                             <li><a href="#"><i class="fa fa-map-marker"></i>Khu 6, Linh Trung, Thủ Đức</a></li>
                             <li><a href="#"><i class="fa fa-phone"></i>+963-49-46-74</a></li>
-                            <li><a href="#"><i class="fa fa-envelope-o"></i>JB_BookStore@gmail.com.vn</a></li>
+                            <li><a href="#"><i class="fa fa-envelope-o"></i>applestore@gmail.com.vn</a></li>
                         </ul>
                     </div>
                 </div>
@@ -61,7 +61,7 @@
                         <ul class="footer-links">
                             <li><a href="../termsOfUse.jsp">Điều khoản sử dụng</a></li>
                             <li><a href="../privacyPolicy.jsp">Chính sách bảo mật</a></li>
-                            <li><a href="../storeIntroduced.jsp">Giới thiệu về JB</a></li>
+                            <li><a href="../storeIntroduced.jsp">Giới thiệu về Apple Store</a></li>
                             <li><a href="../shopCenterSystem.jsp">Hệ thống trung tâm cửa hàng</a></li>
                         </ul>
                     </div>

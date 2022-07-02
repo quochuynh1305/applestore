@@ -80,7 +80,7 @@
 									<div class="info-box">
 										<i class="fa fa-envelope"></i>
 										<h3>Email</h3>
-										<p>JB_BookStore@gmail.com.vn<br></p>
+										<p>applestore@gmail.com.vn<br></p>
 									</div>
 								</div>
 								<div class="col-md-6">

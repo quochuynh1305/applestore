@@ -1,4 +1,3 @@
-<%@ page import="nlu.edu.fit.bookstore.model.Product" %>
 <%@ page import="java.util.ArrayList" %>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <!DOCTYPE html>
@@ -10,7 +9,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-	<title> JB Bookstore</title>
+	<title>Apple Store</title>
 
 	<!-- Google font -->
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet">
@@ -46,10 +45,10 @@
 </head>
 
 <body>
-<%
-//	ArrayList<Product> list = (ArrayList<Product>) request.getAttribute("lisrtdata");
-	Product p = (Product) request.getAttribute("product");
-%>
+<%--<%--%>
+<%--//	ArrayList<Product> list = (ArrayList<Product>) request.getAttribute("lisrtdata");--%>
+<%--	Product p = (Product) request.getAttribute("product");--%>
+<%--%>--%>
 	<!-- form sign up -->
 	<%@include file="parts/header.jsp" %>
 			<!-- /NAVIGATION -->
@@ -84,7 +83,7 @@
 						<div class="col-md-5 col-md-push-2">
 							<div id="product-main-img">
 								<div class="product-preview">
-									<img src="<%=p.getUrl()%>"
+<%--									<img src="<%=p.getUrl()%>"--%>
 										alt="">
 								</div>
 
@@ -131,7 +130,7 @@
 						<!-- Product details -->
 						<div class="col-md-5">
 							<div class="product-details">
-								<h2 class="product-name"><%=p.getName()%></h2>
+<%--								<h2 class="product-name"><%=p.getName()%></h2>--%>
 								<div>
 									<div class="product-rating">
 										<i class="fa fa-star"></i>
@@ -143,7 +142,7 @@
 									<a class="review-link" href="#">10 Đánh giá | Thêm đánh giá</a>
 								</div>
 								<div>
-									<h3 class="product-price"><%=p.getPrice()%><del class="product-old-price">100,000₫</del></h3>
+<%--									<h3 class="product-price"><%=p.getPrice()%><del class="product-old-price">100,000₫</del></h3>--%>
 									<span class="product-available">Còn hàng</span>
 								</div>
 								<p>Tác giả : Terry Deary</p>
@@ -154,12 +153,12 @@
 									<div class="qty-label">
 										Số lượng:
 										<div class="input-number">
-											<input type="number" value="<%=p.getQuantity()%>">
+<%--											<input type="number" value="<%=p.getQuantity()%>">--%>
 											<span class="qty-up">+</span>
 											<span class="qty-down">-</span>
 										</div>
 									</div>
-									<a href="<%=Utils.fullPath("cart/add?id="+ p.getId())%>">
+<%--									<a href="<%=Utils.fullPath("cart/add?id="+ p.getId())%>">--%>
 										<button class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i> thêm vào
 											giỏ
 										</button>
@@ -227,7 +226,7 @@
 <%--													thêm 10 phần viết về những dữ liệu kỳ thú để bạn tha hồ đào bới và--%>
 <%--													học hỏi thêm về người Hy Lạp, những thú vui và những rắc rối của họ.--%>
 <%--												</p>--%>
-												<%=p.getDescription()%>
+<%--												<%=p.getDescription()%>--%>
 											</div>
 										</div>
 									</div>

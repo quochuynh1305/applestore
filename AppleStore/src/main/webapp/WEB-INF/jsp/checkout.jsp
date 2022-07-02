@@ -63,9 +63,9 @@
 </head>
 
 <body>
-<% Cart cart = Cart.getCart(session);
-	Collection<nlu.edu.fit.bookstore.model.CartItem> data = cart.getData();
-%>
+<%--<% Cart cart = Cart.getCart(session);--%>
+<%--	Collection<nlu.edu.fit.bookstore.model.CartItem> data = cart.getData();--%>
+<%--%>--%>
 <%@include file="parts/header.jsp" %>
 
 			<!-- BREADCRUMB -->
@@ -199,12 +199,12 @@
 									<div><strong>Giá</strong></div>
 								</div>
 								<div class="order-products">
-									<% for (CartItem item :data){%>
-									<div class="order-col">
-										<div><%= item.getQuantity()%>x <%= item.getP().getName()%></div>
-										<div><%= item.getP().getPrice()%>VNĐ</div>
-									</div>
-									<%}%>
+<%--									<% for (CartItem item :data){%>--%>
+<%--									<div class="order-col">--%>
+<%--										<div><%= item.getQuantity()%>x <%= item.getP().getName()%></div>--%>
+<%--										<div><%= item.getP().getPrice()%>VNĐ</div>--%>
+<%--									</div>--%>
+<%--									<%}%>--%>
 								</div>
 								<div class="order-col">
 									<div>Phí giao hàng</div>
@@ -212,7 +212,7 @@
 								</div>
 								<div class="order-col">
 									<div><strong>Tổng tiền</strong></div>
-									<div><strong class="order-total"><%= cart.total()%></strong></div>
+<%--									<div><strong class="order-total"><%= cart.total()%></strong></div>--%>
 								</div>
 							</div>
 							<div class="payment-method">
