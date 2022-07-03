@@ -8,7 +8,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-        <title>JB BookStore</title>
+        <title>Apple Store</title>
 
         <!-- iconClose -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -61,7 +61,7 @@
                             <ul class="breadcrumb-tree">
                                 <li><a href="index.jsp">Trang chủ</a></li>
                                 <li><a href="#">Tất cả sản phẩm</a></li>
-                                <li class="active">Tìm kiếm "Truyện ngụ ngôn" (227,490 kết quả)</li>
+                                <li class="active">Tìm kiếm "Iphone 13 Pro Max"</li>
                             </ul>
                         </div>
                     </div>
@@ -81,15 +81,15 @@
                         <div id="aside" class="col-md-3">
                             <!-- aside Widget -->
                             <div class="aside">
-                                <h3 class="aside-title">Thể loại</h3>
+                                <h3 class="aside-title">Iphone</h3>
                                 <div class="checkbox-filter">
 
                                     <div class="input-checkbox">
                                         <input type="checkbox" id="category-1">
                                         <label for="category-1">
 											<span></span>
-											Sách thiếu nhi
-											<small>(120)</small>
+											Iphone 13 Pro Max
+											<small>(5)</small>
 										</label>
                                     </div>
 
@@ -97,8 +97,8 @@
                                         <input type="checkbox" id="category-2">
                                         <label for="category-2">
 											<span></span>
-											Sách giáo khoa
-											<small>(740)</small>
+											Iphone 13 Mini
+											<small>(3)</small>
 										</label>
                                     </div>
 
@@ -106,8 +106,8 @@
                                         <input type="checkbox" id="category-3">
                                         <label for="category-3">
 											<span></span>
-											Khoa học
-											<small>(1450)</small>
+											Iphone 11
+											<small>(4)</small>
 										</label>
                                     </div>
 
@@ -115,8 +115,8 @@
                                         <input type="checkbox" id="category-4">
                                         <label for="category-4">
 											<span></span>
-											Văn học
-											<small>(578)</small>
+										        Iphone 12 Pro Max
+											<small>(3)</small>
 										</label>
                                     </div>
 
@@ -124,8 +124,8 @@
                                         <input type="checkbox" id="category-5">
                                         <label for="category-5">
 											<span></span>
-											Sách nước ngoài
-											<small>(120)</small>
+											Iphone 13 Pro
+											<small>(2)</small>
 										</label>
                                     </div>
 
@@ -133,8 +133,8 @@
                                         <input type="checkbox" id="category-6">
                                         <label for="category-6">
 											<span></span>
-											Kinh dị
-											<small>(740)</small>
+											Iphone 12 Mini
+											<small>(4)</small>
 										</label>
                                     </div>
                                 </div>
@@ -167,12 +167,12 @@
                                 <!-- product widget -->
                                 <div class="product-widget">
                                     <div class="product-img">
-                                        <img src="./img/index/VanHoc/100cauchuyenchobetrai.jpg" alt="100 câu chuyện cho bé trai">
+                                        <img src="./img/iphone/iphone13.png" alt="iphone 13">
                                     </div>
                                     <div class="product-body">
-                                        <p class="product-category">Truyện</p>
-                                        <h3 class="product-name"><a href="#">100 câu chuyện cho bé trai</a></h3>
-                                        <h4 class="product-price">50,000₫ <del class="product-old-price">90,000₫</del>
+                                        <p class="product-category">Iphone</p>
+                                        <h3 class="product-name"><a href="#">Iphone 13</a></h3>
+                                        <h4 class="product-price">20,190,000₫<del class="product-old-price">24,990,000₫</del>
                                         </h4>
                                     </div>
                                 </div>
@@ -181,12 +181,12 @@
                                 <!-- product widget -->
                                 <div class="product-widget">
                                     <div class="product-img">
-                                        <img src="./img/index/VanHoc/dieukydieu.jpg" alt="Điều kỳ diệu">
+                                        <img src="./img/iphone/iphone13mini.png" alt="iphone 13 mini">
                                     </div>
                                     <div class="product-body">
-                                        <p class="product-category">Tiểu thuyết</p>
-                                        <h3 class="product-name"><a href="#">Điều kỳ diệu</a></h3>
-                                        <h4 class="product-price">120,000₫ </h4>
+                                        <p class="product-category">Iphone</p>
+                                        <h3 class="product-name"><a href="#">Iphone 13 Mini</a></h3>
+                                        <h4 class="product-price">18,490,000₫ </h4>
                                     </div>
                                 </div>
                                 <!-- /product widget -->
@@ -194,12 +194,12 @@
                                 <!-- product widget -->
                                 <div class="product-widget">
                                     <div class="product-img">
-                                        <img src="./img/index/VanHoc/dunghenngaymai.jpg" alt="Đừng hẹn ngày mai">
+                                        <img src="./img/iphone/iphone13pro.png" alt="iphone 13 pro">
                                     </div>
                                     <div class="product-body">
-                                        <p class="product-category">Tiểu thuyết</p>
-                                        <h3 class="product-name"><a href="#">Đừng hẹn ngày mai</a></h3>
-                                        <h4 class="product-price">80,000₫ <del class="product-old-price">90,000₫</del>
+                                        <p class="product-category">Iphone</p>
+                                        <h3 class="product-name"><a href="#">Iphone 13 Mini</a></h3>
+                                        <h4 class="product-price">26,090,000₫<del class="product-old-price">30,990,000₫</del>
                                         </h4>
                                     </div>
                                 </div>
@@ -208,12 +208,12 @@
                                 <!-- product widget -->
                                 <div class="product-widget">
                                     <div class="product-img">
-                                        <img src="./img/index/VanHoc/harrypotter.jpg" alt="Harry Potter">
+                                        <img src="./img/iphone/iphone13promax.png" alt="iphone 13 pro max">
                                     </div>
                                     <div class="product-body">
-                                        <p class="product-category">Tiểu thuyết</p>
-                                        <h3 class="product-name"><a href="#">Harry Potter và Hòn đá lửa</a></h3>
-                                        <h4 class="product-price">150,000₫ <del class="product-old-price">200,000₫</del>
+                                        <p class="product-category">Iphone</p>
+                                        <h3 class="product-name"><a href="#">Iphone 13 Pro Max</a></h3>
+                                        <h4 class="product-price">27,790,000₫<del class="product-old-price">33,990,000₫</del>
                                         </h4>
                                     </div>
                                 </div>
@@ -224,12 +224,12 @@
                                 <!-- product widget -->
                                 <div class="product-widget">
                                     <div class="product-img">
-                                        <img src="./img/index/VanHoc/neubiettramnamlahuuhan.jpg" alt="Nếu biết trăm năm là hữu hạn">
+                                        <img src="./img/iphone/iphone12pro.png" alt="iphone 12 pro">
                                     </div>
                                     <div class="product-body">
-                                        <p class="product-category">Ngôn tình</p>
-                                        <h3 class="product-name"><a href="#">Nếu biết trăm năm là hữu hạn</a></h3>
-                                        <h4 class="product-price">80,000₫ <del class="product-old-price">90,000₫</del>
+                                        <p class="product-category">Iphone</p>
+                                        <h3 class="product-name"><a href="#">Iphone 12 pro</a></h3>
+                                        <h4 class="product-price">26,490,000₫<del class="product-old-price">28,490,000₫</del>
                                         </h4>
                                     </div>
                                 </div>
@@ -238,12 +238,12 @@
                                 <!-- product widget -->
                                 <div class="product-widget">
                                     <div class="product-img">
-                                        <img src="./img/index/VanHoc/nhungtamlongcaoca.jpg" alt="Những tấm lòng cao cả">
+                                        <img src="./img/iphone/iphone12mini.png" alt="iphone 12 mini">
                                     </div>
                                     <div class="product-body">
-                                        <p class="product-category">Văn học</p>
-                                        <h3 class="product-name"><a href="#">Những tấm lòng cao cả</a></h3>
-                                        <h4 class="product-price">120,000₫ <del class="product-old-price">150,000₫</del>
+                                        <p class="product-category">Iphone</p>
+                                        <h3 class="product-name"><a href="#">Iphone 12 Mini</a></h3>
+                                        <h4 class="product-price">14,990,000₫<del class="product-old-price">18,990,000₫</del>
                                         </h4>
                                     </div>
                                 </div>
@@ -252,13 +252,13 @@
                                 <!-- product widget -->
                                 <div class="product-widget">
                                     <div class="product-img">
-                                        <img src="./img/index/VanHoc/ongtramtuoitreoquacuasovabienmat.jpg" alt="Ông trăm tuổi trèo qua cửa sổ và biến mất">
+                                        <img src="./img/iphone/iphonese2022.png" alt="iphone se 2022">
                                     </div>
                                     <div class="product-body">
-                                        <p class="product-category">Ngụ ngôn</p>
-                                        <h3 class="product-name"><a href="#">Ông trăm tuổi trèo cửa sổ & biến mất</a>
+                                        <p class="product-category">Iphone</p>
+                                        <h3 class="product-name"><a href="#">Iphone SE (2022)</a>
                                         </h3>
-                                        <h4 class="product-price">100,000₫ </h4>
+                                        <h4 class="product-price">11,590,000₫</h4>
                                     </div>
                                 </div>
                                 <!-- product widget -->
@@ -266,12 +266,12 @@
                                 <!-- product widget -->
                                 <div class="product-widget">
                                     <div class="product-img">
-                                        <img src="./img/index/VanHoc/tiemsachcu.jpg" alt="Tiệm sách cũ">
+                                        <img src="./img/iphone/iphone12mini.png" alt="iphone 12 mini">
                                     </div>
                                     <div class="product-body">
-                                        <p class="product-category">Đam mỹ</p>
-                                        <h3 class="product-name"><a href="#">Tiệm sách cũ</a></h3>
-                                        <h4 class="product-price">80,000₫ <del class="product-old-price">100,000₫</del>
+                                        <p class="product-category">Iphone</p>
+                                        <h3 class="product-name"><a href="#">Iphone 12 Mini</a></h3>
+                                        <h4 class="product-price">14,990,000₫<del class="product-old-price">18,990,000₫</del>
                                         </h4>
                                     </div>
                                 </div>
@@ -316,12 +316,12 @@
                                 <div class="col-md-4 col-xs-6">
                                     <div class="product">
                                         <div class="product-img">
-                                            <img src="./img/search/108-truyen-ngu-ngon-hay-nhat.jpg" alt="108 truyện ngụ ngôn hay nhất">
+                                            <img src="./img/iphone/iphone13promax.png " alt="iphone 13 pro max">
                                         </div>
                                         <div class="product-body">
-                                            <p class="product-category">Văn học</p>
-                                            <h3 class="product-name"><a href="#">108 truyện ngụ ngôn hay nhất</a></h3>
-                                            <h4 class="product-price">83,000₫</h4>
+                                            <p class="product-category">Iphone</p>
+                                            <h3 class="product-name"><a href="#">Iphone 13 Pro Max</a></h3>
+                                            <h4 class="product-price">27,790,000₫</h4>
                                             <div class="product-rating">
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
@@ -334,9 +334,12 @@
 														class="tooltipp">yêu thích</span></button>
                                                 <button class="add-to-compare"><i class="fa fa-exchange"></i><span
 														class="tooltipp">đối chiếu</span></button>
-                                                <button class="quick-view"><a href="javascript:void(0);"
+                                                <button class="quick-view">
+                                                    <a href="javascript:void(0);"
 														class="quickview" data-handle="quickview"
-														style="color: black;"><i class="fa fa-eye"></a></i><span
+														style="color: black;">
+                                                        <i class="fa fa-eye">
+                                                    </i></a><span
 														class="tooltipp">xem nhanh</span></button>
                                             </div>
                                         </div>
@@ -352,16 +355,16 @@
                                 <div class="col-md-4 col-xs-6">
                                     <div class="product">
                                         <div class="product-img">
-                                            <img src="./img/search/100-mau-chuyen-co-dong-tay-nguyen-lan.jpg" alt="100 mẩu chuyện cổ Đông Tây">
+                                            <img src="./img/iphone/iphone13mini.png" alt="iphone 13 mini">
                                             <div class="product-label">
                                                 <span class="sale">-30%</span>
                                                 <span class="new">MỚI</span>
                                             </div>
                                         </div>
                                         <div class="product-body">
-                                            <p class="product-category">Văn học</p>
-                                            <h3 class="product-name"><a href="#">100 Mẫu chuyện cổ Đông Tây</a></h3>
-                                            <h4 class="product-price">115,000₫ <del class="product-old-price">150,000₫</del></h4>
+                                            <p class="product-category">Iphone</p>
+                                            <h3 class="product-name"><a href="#">Iphone 13 Mini</a></h3>
+                                            <h4 class="product-price">18,490,000₫ <del class="product-old-price">21,990,000₫</del></h4>
                                             <div class="product-rating">
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
@@ -376,7 +379,7 @@
 														class="tooltipp">đối chiếu</span></button>
                                                 <button class="quick-view"><a href="javascript:void(0);"
 														class="quickview" data-handle="quickview"
-														style="color: black;"><i class="fa fa-eye"></a></i><span
+														style="color: black;"><i class="fa fa-eye"></i></a><<span
 														class="tooltipp">xem nhanh</span></button>
                                             </div>
                                         </div>
@@ -394,15 +397,15 @@
                                 <div class="col-md-4 col-xs-6">
                                     <div class="product">
                                         <div class="product-img">
-                                            <img src="./img/search/365-chuyen-ke-hang-dem-mua-thu.jpg" alt="365 chuyện kể hằng đêm mùa thu">
+                                            <img src="./img/iphone/iphone11.png" alt="iphone 11">
                                             <div class="product-label">
                                                 <span class="new">MỚI</span>
                                             </div>
                                         </div>
                                         <div class="product-body">
-                                            <p class="product-category">Văn học</p>
-                                            <h3 class="product-name"><a href="#">365 chuyện kể hằng đêm mùa thu</a></h3>
-                                            <h4 class="product-price">62,000₫</h4>
+                                            <p class="product-category">Iphone</p>
+                                            <h3 class="product-name"><a href="#">Iphone 11</a></h3>
+                                            <h4 class="product-price">11,390,000₫</h4>
                                             <div class="product-rating">
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
@@ -417,7 +420,7 @@
 														class="tooltipp">đối chiếu</span></button>
                                                 <button class="quick-view"><a href="javascript:void(0);"
 														class="quickview" data-handle="quickview"
-														style="color: black;"><i class="fa fa-eye"></a></i><span
+														style="color: black;"><i class="fa fa-eye"></i></a><<span
 														class="tooltipp">xem nhanh</span></button>
                                             </div>
                                         </div>
@@ -435,16 +438,18 @@
                                 <div class="col-md-4 col-xs-6">
                                     <div class="product">
                                         <div class="product-img">
-                                            <img src="./img/search/c01.jpg" alt="100 huyền thoại Viking hay nhất mọi thời đại">
+                                            <img src="./img/iphone/iphone13.png" alt="iphone 13">
                                             <div class="product-label">
                                                 <span class="sale">-30%</span>
                                                 <span class="new">MỚI</span>
                                             </div>
                                         </div>
                                         <div class="product-body">
-                                            <p class="product-category">Văn học</p>
-                                            <h3 class="product-name"><a href="#">100 huyền thoại Viking hay nhất mọi thời đại</a></h3>
-                                            <h4 class="product-price">115,000₫ <del class="product-old-price">150,000₫</del></h4>
+                                            <p class="product-category">Iphone</p>
+                                            <h3 class="product-name"><a href="#">Iphone 13</a></h3>
+                                            <h4 class="product-price" 20,190,000₫>
+                                                </del class="product-old-price">24,990,000₫>
+                                                    </h4>
                                             <div class="product-rating">
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
@@ -459,7 +464,7 @@
 														class="tooltipp">đối chiếu</span></button>
                                                 <button class="quick-view"><a href="javascript:void(0);"
 														class="quickview" data-handle="quickview"
-														style="color: black;"><i class="fa fa-eye"></a></i><span
+														style="color: black;"><i class="fa fa-eye"></i></a><<span
 														class="tooltipp">xem nhanh</span></button>
                                             </div>
                                         </div>
@@ -477,16 +482,16 @@
                                 <div class="col-md-4 col-xs-6">
                                     <div class="product">
                                         <div class="product-img">
-                                            <img src="./img/search/c02.jpg" alt="100 huyền thoại Hy Lạp hay nhất mọi thời đại">
+                                            <img src="./img/mac/macbookprom2.png" alt="">
                                             <div class="product-label">
                                                 <span class="sale">-30%</span>
                                                 <span class="new">MỚI</span>
                                             </div>
                                         </div>
                                         <div class="product-body">
-                                            <p class="product-category">Văn học</p>
-                                            <h3 class="product-name"><a href="#">100 huyền thoại Hy Lạp hay nhất mọi thời đại</a></h3>
-                                            <h4 class="product-price">115,000₫ <del class="product-old-price">150,000₫</del></h4>
+                                            <p class="product-category">Macbook Pro</p>
+                                            <h3 class="product-name"><a href="#">MacBook Pro 13 inch M2 2022</a></h3>
+                                            <h4 class="product-price">35,990,000₫<del class="product-old-price">36,990,000₫</del></h4>
                                             <div class="product-rating">
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
@@ -501,7 +506,7 @@
 														class="tooltipp">đối chiếu</span></button>
                                                 <button class="quick-view"><a href="javascript:void(0);"
 														class="quickview" data-handle="quickview"
-														style="color: black;"><i class="fa fa-eye"></a></i><span
+														style="color: black;"><i class="fa fa-eye"></i></a><<span
 														class="tooltipp">xem nhanh</span></button>
                                             </div>
                                         </div>
@@ -517,15 +522,15 @@
                                 <div class="col-md-4 col-xs-6">
                                     <div class="product">
                                         <div class="product-img">
-                                            <img src="./img/search/buratino-va-chiec-chia-khoa-vang.jpg" alt="Truyện Buratino và chiếc chìa khóa vàng">
+                                            <img src="./img/mac/macbookairm22022.png" alt="">
                                             <div class="product-label">
                                                 <span class="sale">-30%</span>
                                                 <span class="new">MỚI</span>
                                             </div>
                                         </div>
                                         <div class="product-body">
-                                            <p class="product-category">Văn học</p>
-                                            <h3 class="product-name"><a href="#">Truyện Buratino và chiếc chìa khóa vàng</a></h3>
+                                            <p class="product-category">MacBook</p>
+                                            <h3 class="product-name"><a href="#">MacBook Air M2 2022 10-core GPU</a></h3>
                                             <h4 class="product-price">115,000₫ <del class="product-old-price">150,000₫</del></h4>
                                             <div class="product-rating">
                                                 <i class="fa fa-star"></i>
@@ -541,7 +546,7 @@
 														class="tooltipp">đối chiếu</span></button>
                                                 <button class="quick-view"><a href="javascript:void(0);"
 														class="quickview" data-handle="quickview"
-														style="color: black;"><i class="fa fa-eye"></a></i><span
+														style="color: black;"><i class="fa fa-eye"></i></a><<span
 														class="tooltipp">xem nhanh</span></button>
                                             </div>
                                         </div>
@@ -559,16 +564,16 @@
                                 <div class="col-md-4 col-xs-6">
                                     <div class="product">
                                         <div class="product-img">
-                                            <img src="./img/search/Truyen-co-Tay-Tang.jpg" alt="Truyện cổ Tây Tạng">
+                                            <img src="./img/mac/macbookairm22022.png" alt="">
                                             <div class="product-label">
                                                 <span class="sale">-30%</span>
                                                 <span class="new">MỚI</span>
                                             </div>
                                         </div>
                                         <div class="product-body">
-                                            <p class="product-category">Văn học</p>
-                                            <h3 class="product-name"><a href="#">Truyện cổ Tây Tạng</a></h3>
-                                            <h4 class="product-price">115,000₫ <del class="product-old-price">150,000₫</del></h4>
+                                            <p class="product-category">MacBook</p>
+                                            <h3 class="product-name"><a href="#">MacBook Air M2 2022 8-core GPU</a></h3>
+                                            <h4 class="product-price">32,990,000₫<del class="product-old-price">33,990,000₫</del></h4>
                                             <div class="product-rating">
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
@@ -583,7 +588,7 @@
 														class="tooltipp">đối chiếu</span></button>
                                                 <button class="quick-view"><a href="javascript:void(0);"
 														class="quickview" data-handle="quickview"
-														style="color: black;"><i class="fa fa-eye"></a></i><span
+														style="color: black;"><i class="fa fa-eye"></i></a><<span
 														class="tooltipp">xem nhanh</span></button>
                                             </div>
                                         </div>
@@ -599,16 +604,16 @@
                                 <div class="col-md-4 col-xs-6">
                                     <div class="product">
                                         <div class="product-img">
-                                            <img src="./img/search/truyen-ke-tay-tang.jpg" alt="Truyện kể Tây Tạng">
+                                            <img src="./img/mac/macbookprom2.png" alt="">
                                             <div class="product-label">
                                                 <span class="sale">-30%</span>
                                                 <span class="new">MỚI</span>
                                             </div>
                                         </div>
                                         <div class="product-body">
-                                            <p class="product-category">Văn học</p>
-                                            <h3 class="product-name"><a href="#">Truyện kể Tây Tạng</a></h3>
-                                            <h4 class="product-price">115,000₫ <del class="product-old-price">150,000₫</del></h4>
+                                            <p class="product-category">MacBook</p>
+                                            <h3 class="product-name"><a href="#">MacBook Pro 13 inch M2 2022</a></h3>
+                                            <h4 class="product-price">45,990,000₫<del class="product-old-price">46,990,000₫</del></h4>
                                             <div class="product-rating">
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
@@ -623,7 +628,7 @@
 														class="tooltipp">đối chiếu</span></button>
                                                 <button class="quick-view"><a href="javascript:void(0);"
 														class="quickview" data-handle="quickview"
-														style="color: black;"><i class="fa fa-eye"></a></i><span
+														style="color: black;"><i class="fa fa-eye"></i></a><<span
 														class="tooltipp">xem nhanh</span></button>
                                             </div>
                                         </div>
@@ -641,16 +646,16 @@
                                 <div class="col-md-4 col-xs-6">
                                     <div class="product">
                                         <div class="product-img">
-                                            <img src="./img/search/than-thoai-bac-au.jpg" alt="Truyện thần thoại Bắc Âu">
+                                            <img src="./img/mac/macbookprom12021.png" alt="">
                                             <div class="product-label">
                                                 <span class="sale">-30%</span>
                                                 <span class="new">MỚ<I></I></span>
                                             </div>
                                         </div>
                                         <div class="product-body">
-                                            <p class="product-category">Văn học</p>
-                                            <h3 class="product-name"><a href="#">Truyện thần thoại Bắc Âu</a></h3>
-                                            <h4 class="product-price">115,000₫ <del class="product-old-price">150,000₫</del></h4>
+                                            <p class="product-category">MacBook</p>
+                                            <h3 class="product-name"><a href="#">MacBook Pro 14 inch M1 Pro 2021 16-Core GPU</a></h3>
+                                            <h4 class="product-price">67,490,000₫<del class="product-old-price">71,990,000₫</del></h4>
                                             <div class="product-rating">
                                                 <i class="fa fa-star"></i>
                                                 <i class="fa fa-star"></i>
@@ -665,7 +670,7 @@
 														class="tooltipp">đối chiếu</span></button>
                                                 <button class="quick-view"><a href="javascript:void(0);"
 														class="quickview" data-handle="quickview"
-														style="color: black;"><i class="fa fa-eye"></a></i><span
+														style="color: black;"><i class="fa fa-eye"></i></a><<span
 														class="tooltipp">xem nhanh</span></button>
                                             </div>
                                         </div>

@@ -84,20 +84,21 @@
 							<div id="product-main-img">
 								<div class="product-preview">
 <%--									<img src="<%=p.getUrl()%>"--%>
+										<img src="./img/iphone/iphone13pro.png"
 										alt="">
 								</div>
 
 								<div class="product-preview">
-									<img src="./img/cotichthanthoai/10-huyen-thoai-viking-hay-nhat-moi-thoi-dai.jpg"
+									<img src="./img/iphone/iphone13promax.png"
 										alt="">
 								</div>
 
 								<div class="product-preview">
-									<img src="./img/cotichthanthoai/buratino-va-chiec-chia-khoa-vang.jpg" alt="">
+									<img src="./img/iphone/iphone12mini.png" alt="">
 								</div>
 
 								<div class="product-preview">
-									<img src="./img/cotichthanthoai/108-truyen-ngu-ngon-hay-nhat.jpg" alt="">
+									<img src="./img/iphone/iphonese2022.png" alt="">
 								</div>
 							</div>
 						</div>
@@ -107,21 +108,21 @@
 						<div class="col-md-2  col-md-pull-5">
 							<div id="product-imgs">
 								<div class="product-preview-slide">
-									<img src="img/cotichthanthoai/10-huyen-thoai-hy-lap-hay-nhat-moi-thoi-dai.jpg"
+									<img src="./img/iphone/iphone12mini.png"
 										alt="">
 								</div>
 
 								<div class="product-preview-slide">
-									<img src="./img/cotichthanthoai/10-huyen-thoai-viking-hay-nhat-moi-thoi-dai.jpg"
+									<img src="./img/iphone/iphone13promax.png"
 										alt="">
 								</div>
 
 								<div class="product-preview-slide">
-									<img src="./img/cotichthanthoai/buratino-va-chiec-chia-khoa-vang.jpg" alt="">
+									<img src="./img/iphone/iphone13mini.png" alt="">
 								</div>
 
 								<div class="product-preview-slide">
-									<img src="./img/cotichthanthoai/108-truyen-ngu-ngon-hay-nhat.jpg" alt="">
+									<img src="./img/iphone/iphone11.png" alt="">
 								</div>
 							</div>
 						</div>
@@ -131,6 +132,7 @@
 						<div class="col-md-5">
 							<div class="product-details">
 <%--								<h2 class="product-name"><%=p.getName()%></h2>--%>
+									<h2 class="product-name">Iphone 13 Pro 256GB</h2>
 								<div>
 									<div class="product-rating">
 										<i class="fa fa-star"></i>
@@ -143,17 +145,20 @@
 								</div>
 								<div>
 <%--									<h3 class="product-price"><%=p.getPrice()%><del class="product-old-price">100,000₫</del></h3>--%>
+										<h3 class="product-price">20,190,000₫<del class="product-old-price">24,990,000₫</del></h3>
 									<span class="product-available">Còn hàng</span>
 								</div>
-								<p>Tác giả : Terry Deary</p>
-								<p> Thể Loại : Cổ Tích - Thần Thoại</p>
-								<p>Lượt xem : 43867</p>
+								<p>Thông tin sản phẩm: </p>
+								<p> Bảo hành chính hãng điện thoại 1 năm tại các trung tâm bảo hành hãng </p>
+								<p>Hư gì đổi nấy 12 tháng tại 3192 siêu thị toàn quốc (miễn phí tháng đầu) </p>
+								<p>Lượt xem : 438</p>
 
 								<div class="add-to-cart">
 									<div class="qty-label">
 										Số lượng:
 										<div class="input-number">
 <%--											<input type="number" value="<%=p.getQuantity()%>">--%>
+												<input type="number" value="1">--%>
 											<span class="qty-up">+</span>
 											<span class="qty-down">-</span>
 										</div>
@@ -171,12 +176,12 @@
 									<li><a href="#"><i class="fa fa-exchange"></i> Đối chiếu</a></li>
 								</ul>
 
-								<ul class="product-links">
-									<li>Thể loại:</li>
-									<li><a href="#">Cổ tích thần thoại</a></li>
+<%--								<ul class="product-links">--%>
+<%--									<li>Thể loại:</li>--%>
+<%--									<li><a href="#">Cổ tích thần thoại</a></li>--%>
 
 
-								</ul>
+<%--								</ul>--%>
 
 								<ul class="product-links">
 									<li>Chia sẻ:</li>
@@ -207,9 +212,12 @@
 									<div id="tab1" class="tab-pane fade in active">
 										<div class="row">
 											<div class="col-md-12">
-<%--												<p>10 Huyền Thoại Hy Lạp Hay Nhất Mọi Thời Đại được trình bày dưới nhiều--%>
-<%--													hình thức khác nhau. Sau mỗi huyền thoại lại có những dữ liệu kỳ thú--%>
-<%--													liên quan đến chủ đề.</p>--%>
+												<p>10 Huyền Thoại Hy Lạp Hay Nhất Mọi Thời Đại được trình bày dưới nhiều
+													hình thức khác nhau. Sau mỗi huyền thoại lại có những dữ liệu kỳ thú
+													liên quan đến chủ đề.Mỗi lần ra mắt phiên bản mới là mỗi lần iPhone
+													chiếm sóng trên khắp các mặt trận và lần này cái tên khiến vô số người "sục sôi" là iPhone 13 Pro,
+													chiếc điện thoại thông minh vẫn giữ nguyên thiết kế cao cấp,
+													cụm 3 camera được nâng cấp, cấu hình mạnh mẽ cùng thời lượng pin lớn ấn tượng.</p>
 <%--												<p>Nội dung hấp dẫn, cách trình bày hài hước, đa dạng kèm tranh minh họa--%>
 <%--													vui nhộn. Sách thích hợp với các bạn đọc từ 10 tuổi trở lên.</p>--%>
 <%--												<p>Từ thời cổ đại, loài người đã kể chuyện. Họ kể nhiều chuyện cho nhau--%>
@@ -237,32 +245,32 @@
 											<table>
 												<tbody>
 													<tr>
-														<td>Công ty phát hành</td>
-														<td>NXB Trẻ</td>
+														<td>Màn hình:</td>
+														<td>OLED6.1"Super Retina XDR</td>
 													</tr>
 													<tr>
-														<td>Ngày xuất bản</td>
-														<td>08-2013</td>
+														<td>Hệ điều hành:</td>
+														<td>iOS 15</td>
 													</tr>
 													<tr>
-														<td>Kích thước</td>
-														<td>14 x 20 cm</td>
+														<td>Camera sau:</td>
+														<td>3 camera 12 MP</td>
 													</tr>
 													<tr>
-														<td>Loại bìa</td>
-														<td>Bìa mềm</td>
+														<td>Camera trước:</td>
+														<td>12 MP</td>
 													</tr>
 													<tr>
-														<td>Số trang</td>
-														<td>200</td>
+														<td>Chip:</td>
+														<td>Apple A15 Bionic</td>
 													</tr>
 													<tr>
-														<td>SKU</td>
-														<td>2519165688780</td>
+														<td>RAM:</td>
+														<td>6 GB</td>
 													</tr>
 													<tr>
-														<td>Nhà xuất bản</td>
-														<td>NXB Trẻ</td>
+														<td>Bộ nhớ trong:</td>
+														<td>256GB</td>
 													</tr>
 												</tbody>
 											</table>
@@ -372,7 +380,7 @@
 																</div>
 															</div>
 															<div class="review-body">
-																<p>Sách rất hay, thật tuyệt vời!</p>
+																<p>Sản phẩm tốt, tuyệt vời!</p>
 															</div>
 														</li>
 														<li>
@@ -404,7 +412,7 @@
 																</div>
 															</div>
 															<div class="review-body">
-																<p>Sách hay lắm mọi người ạ!</p>
+																<p>Trải nghiệm sản phẩm tuyệt vời</p>
 															</div>
 														</li>
 													</ul>

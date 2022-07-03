@@ -6,10 +6,10 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.servlet.ModelAndView;
 
 @Controller
-public class AccountController {
-    @RequestMapping(path = "/account", method = RequestMethod.GET)
-    public ModelAndView account() {
-        ModelAndView mav = new ModelAndView("account");
+public class CartController {
+    @RequestMapping(path = "/cart", method = RequestMethod.GET)
+    public ModelAndView cart() {
+        ModelAndView mav = new ModelAndView("cart");
         return mav;
     }
 }

@@ -9,7 +9,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-	<title> JB Bookstore</title>
+	<title>Apple Store</title>
 
 	<!-- Google font -->
 	<link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,700" rel="stylesheet">
@@ -87,23 +87,32 @@
                    <div class="row"> 
 <%--                    <div class="col-sm-2 hidden-xs"><img src="<%= item.getP().getUrl()%>" alt="Sản phẩm 1" class="img-responsive" width="100">--%>
 <%--                    </div> --%>
-                    <div class="col-sm-10"> 
+						<div class="col-sm-2 hidden-xs"><img src="./img/iphone/iphone13mini.png" alt="Sản phẩm 1" class="img-responsive" width="100">
+						</div>
+                    <div class="col-sm-10">
 <%--                     <h4 class="nomargin"><%= item.getP().getName()%></h4>--%>
 <%--                     <p>10 huyền thoại Hy Lạp hay nhất mọi thời đại</p> --%>
-                    </div> 
-                   </div> 
-                  </td> 
+							<h4 class="nomargin">Iphone 13 Mini</h4>
+							<p>Iphong 13 Mini</p>
+                    </div>
+                   </div>
+                  </td>
 <%--                  <td data-th="Price"><%= item.getP().getPrice()%></td>--%>
 <%--                  <td data-th="Quantity"><input class="form-control text-center" value="<%= item.getQuantity()%>" type="number" min="1" >--%>
 <%--                  </td> --%>
 <%--                  <td data-th="Subtotal" class="text-center"><%= item.price()%></td>--%>
-                  <td class="actions" data-th="">
+					                   <td data-th="Price">18,490,000₫</td>
+					                   <td data-th="Quantity"><input class="form-control text-center" value="1" type="number" min="1" >
+					                   </td>
+					                   <td data-th="Subtotal" class="text-center">18,490,000₫</td>
+
+					 <td class="actions" data-th="">
 <%--                   <button class="btn btn-info btn-sm"><i class="fa fa-edit"></i>--%>
 <%--                   </button> --%>
 <%--                     <a href="<%=Utils.fullPath("remove")%>?id=<%=item.getP().getId()%>">--%>
                    <button class="btn btn-danger btn-sm"><i class="fa fa-trash-o"></i>
                    </button>
-    </a>
+<%--    </a>--%>
 
                   </td> 
                  </tr>
@@ -114,11 +123,13 @@
                    </td> 
                   </tr>  -->
                   <tr> 
-<%--                   <td><a href="<%=Utils.fullPath("")%>>" class="btn btn-warning"><i class="fa fa-angle-left"></i> Tiếp tục mua hàng</a>--%>
-<%--                   </td> --%>
+                   <td><a href="" class="btn btn-warning"><i class="fa fa-angle-left"></i> Tiếp tục mua hàng</a>
+                   </td>
                    <td colspan="2" class="hidden-xs"> </td>
 <%--                   <td class="hidden-xs text-center"><strong>Tổng tiền <%= cart.total()%></strong>--%>
 <%--                   </td> --%>
+					<td class="hidden-xs text-center"><strong>Tổng tiền: 18,490,000₫ </strong>--%>
+		                   </td>
                    <td><a href="checkout" class="btn btn-success btn-block">Thanh toán <i class="fa fa-angle-right"></i></a>
                    </td> 
                   </tr>

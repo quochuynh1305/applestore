@@ -19,21 +19,11 @@ public class ProductController {
         return mav;
     }
 
-    @RequestMapping(path = "/new", method = RequestMethod.GET)
-    public ModelAndView newPage() {
-        ModelAndView mav = new ModelAndView("new");
-        return mav;
-    }
-
     @RequestMapping(path = "/error", method = RequestMethod.GET)
     public ModelAndView error() {
         ModelAndView mav = new ModelAndView("loi");
         return mav;
     }
 
-    @RequestMapping(path = "/cart", method = RequestMethod.GET)
-    public ModelAndView cart() {
-        ModelAndView mav = new ModelAndView("cart");
-        return mav;
-    }
+
 }
